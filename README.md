@@ -18,7 +18,7 @@
   
  </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=castrobrunno&label=Profile%20views&color=009dff&style=flat-square" alt="castrobrunno" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CastroBrunno&label=Profile%20views&color=009dff&style=flat-square" alt="castrobrunno" /> </p>
 
 
 
