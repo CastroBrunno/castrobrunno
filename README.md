@@ -10,8 +10,7 @@
 (Java | Spring Boot | Javascript | NodeJs | PostgreSQL | HTML | CSS | GIT ) 🚀
 - 🎓 Analise e Desenvolvimento de Sistemas - UniFavip Wyden 3º SEM.
 - 🎓 Desenvolvimento de Sistemas -  Sesi / Senai (Completed).
-- 📺 I like good movies and good music
-
+- 📺 I like play games and watch good movies.
 
 <div align="left">
   
